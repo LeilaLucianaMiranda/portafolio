@@ -1,0 +1,15 @@
+header{
+    background-color: blueviolet;
+    padding: 25px;
+    box-shadow:black
+}
+ul{ 
+    flex-direction: row;
+    list-style: none;
+    display: list-item;
+    text-decoration: none;
+}
+li{
+    display: list-item;
+    text-decoration: none;
+}
