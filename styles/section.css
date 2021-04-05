@@ -1,0 +1,135 @@
+.my-knowledge{
+    width: 100vw;
+    height: 1000px;
+    background-color: #FFC2E1;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 120px;
+}
+.cuadrado{ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.cuadrado:hover{
+    background-color:rgb(226, 162, 185);
+}
+.cuadrado2{ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ 
+}
+.cuadrado2:hover{
+    background-color: rgb(146, 185, 197);
+}
+.programas{
+    display: flex;
+    font-family: 'Yusei Magic', sans-serif;
+    font-size: 20px;
+    flex-direction: column;
+    padding: 15px;
+}
+h2{
+    font-family: 'Parisienne', cursive;
+    font-size: 80px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.cajap{
+    background-color: black;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.texto{
+    font-family: 'Yusei Magic', sans-serif;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 35px;
+}
+
+.dimension{
+    padding-left: 450px;
+    padding-right:450px;
+}
+
+.quotation-marks{
+    width: 100vw;
+    height: 560px;
+    background: #ff006b;
+    background: linear-gradient(74deg,#ff006b 0%, #cc00ff 80%);
+    background: -webkit-linear-gradient(74deg,#ff006b 0%, #cc00ff 80%);
+    background: -moz-linear-gradient(74deg,#ff006b 0%, #cc00ff 80%);
+    color: cyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content{
+    width: 700px;
+    height: 330px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.comillas{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.bloque{
+    font-family: 'Yusei Magic', sans-serif;
+    color: white;
+    font-size: 20px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.autor{
+    color: white;
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+.proyectos{
+    font-family: "ruthie";
+    width: 100vw; 
+    height: 1300px;
+    background-color: #BACDDF;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 120px;
+    display: flex;
+}
+
+.contacto{
+   background-color: palevioletred;
+   width: 100vw;
+   height: 950px;
+   padding: 80px;
+   display: flex;
+   flex-direction: column;
+}
+
+.cajac{
+    height: 650px;
+    background-color: rgb(218, 164, 182);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+

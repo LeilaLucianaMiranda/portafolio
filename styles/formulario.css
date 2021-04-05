@@ -1,0 +1,120 @@
+.contacto{
+    background-color: palevioletred;
+    height: 950px;
+    padding: 150px;
+    display: flex;
+    flex-direction: column;
+ }
+ .cajac{
+    height: 650px;
+    background-color: rgb(218, 164, 182);
+    display: flex;
+    flex-direction: column;
+    padding-left: 30px;
+}
+.titulo{
+    display: flex;
+    flex-direction: row;
+    font-family: 'Parisienne', cursive;
+}
+
+.mayor{ 
+    width: 900px;
+    height: 700px;
+    border-radius: 15px;
+    background-color: rgb(218, 164, 182);  
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 25px;  
+    flex-direction: row;
+    text-align: start;    
+}
+.parrafo{
+    width: 400px;
+    height: 100px;
+    font-family: 'Yusei Magic', sans-serif;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding-right: 25px;
+    padding-left: 20px;
+   
+}
+.social{
+    flex-direction: column;
+    font-size: 20px;
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+.list{
+    flex-direction: column;
+    font-size: 15px;
+    color: black;
+}
+
+
+form{
+    padding-top: 35px;
+    padding-left: 35px;
+    background-color: rgb(218, 164, 182);
+    display: flex;
+    flex-direction: column;
+    justify-content:center;   
+}
+.alineacion{
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+}
+.msj1{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Yusei Magic', sans-serif;
+    border-radius: 35px;
+    text-align: start;
+}
+.complete{
+    width: 160px;
+    height: 40px;
+    flex-direction: column;
+    text-align: center;
+    border-radius: 35px;
+    font-family: 'Yusei Magic', sans-serif;
+    margin: 15px;
+}
+.msj{
+    font-family: 'Yusei Magic', sans-serif;
+    margin: 20px;
+    padding: 40px;
+    text-align: center;
+    border-radius: 30px;
+   
+}
+.buttom3{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 130px;
+    height: 50px;
+    border-radius: 30px;
+    margin-left: 20px;
+    font-family: 'Yusei Magic', sans-serif;
+    background-color: palevioletred;
+}
+.buttom3:hover{
+    background-color: rgb(248, 148, 181);
+}
+.flex{
+    padding-top: 25px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Yusei Magic', sans-serif; 
+}
+
+span{
+    color: black;
+    font-size: 17px;
+}
+.social3:hover{
+    color: rgb(116, 8, 44);
+}
